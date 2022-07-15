@@ -83,9 +83,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
-const vi = ['https://telegra.ph/file/067b2cb3312837533239c.mp4',
-'https://telegra.ph/file/e38881701692c74484a17.mp4',
-'https://telegra.ph/file/de776d34ef058b7d2ec12.mp4', 'https://telegra.ph/file/bc82653506c301b40679c.mp4',     'https://telegra.ph/file/7f10b3624991bbcee9ded.mp4', 'https://telegra.ph/file/51aa9701839dcc29066e9.mp4',     'https://telegra.ph/file/4f26132ac0296a34a45a8.mp4']
+const vi = ['https://telegra.ph/file/8c2cecd8ccb318ca64b7b.mp4',
+'https://telegra.ph/file/d25965bbc73bb254caacd.mp4',
+'https://telegra.ph/file/d79d6ee2c583b71d14dc9.mp4', 'https://telegra.ph/file/a8e7a31d6d2ffb1aa8acf.mp4',     'https://telegra.ph/file/3fbae43479dde61dee4d0.mp4', 'https://telegra.ph/file/adbf3dd6f5a9b5dd15152.mp4',     'https://telegra.ph/file/c987bb6cf618ecda9cd5b.mp4']
 
 var vid = vi[Math.floor(Math.random() * (vi.length))]
 

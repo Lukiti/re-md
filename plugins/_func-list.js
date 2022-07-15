@@ -13,11 +13,11 @@ for (let i = 0; i < 999; i++) arr.push({ productId: '5164304847020057' })
 		title: 'Hello World!', description: conn.user.name,
 		buttonText: 'iyh', listType: 2,
 		sections: [], productListInfo: {
-			productSections: [{ title: 'github: Rlxfly', products: arr }],
+			productSections: [{ title: 'github: Gaara-Ofc', products: arr }],
 			headerImage: {
 				productId: '5164304847020057', jpegThumbnail: thumb
 			},
-			businessOwnerJid: '6287845646738@s.whatsapp.net'
+			businessOwnerJid: '201507384088@s.whatsapp.net'
 		},
 		footerText: me,
 		contextInfo: null 

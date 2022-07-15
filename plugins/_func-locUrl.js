@@ -14,7 +14,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLongitude: 0,
   name: 'y',
   address: me,
-  url: 'https://github.com/Rlxfly',
+  url: 'https://github.com/Gaara-Ofc',
   isLive: true,
   accuracyInMeters: 0,
   speedInMps: 0,

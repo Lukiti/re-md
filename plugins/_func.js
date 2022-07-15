@@ -22,8 +22,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'no@gmail.com', true],
-         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'rlxfly.uwu@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'gaarasetyawan@gmail.com', true],
+         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'gaaraxploite@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -46,15 +46,15 @@ handler.all = async function (m) {
 					description: '',
 					previewType: 1,
 					thumbnail: await(await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/Rlxfly",					
+					sourceUrl: "https://github.com/Gaara-Ofc",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/rlxfly.uw",
+            mediaUrl: "https://Instagram.com/gaaraxploite",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/rlxfly.uw", 
+            description: "https://Instagram.com/gaaraxploite", 
             title: 'Simple Bot Esm',
             body: me,
             thumbnailUrl: pp,

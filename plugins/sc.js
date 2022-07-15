@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':200,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/Rlxfly/re-md',
+'mediaUrl': 'http://github.com/Gaara-Ofc',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'Searching Source Code?',
 'body': me,
 'thumbnail': thumb2,
-'sourceUrl': 'https://www.youtube.com/watch?v=qBJ0F9Ecax0'}},
-'caption': 'http://github.com/Rlxfly/re-md',
+'sourceUrl': 'https:/instagram.com/gaara_xploite'}},
+'caption': 'http://github.com/Gaara-Ofc/zmi',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
